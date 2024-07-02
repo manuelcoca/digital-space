@@ -8,7 +8,7 @@
   * Those components itselfs are also containers
 * Usually multiple worker nodes run inside a cluster (if one node is not available, our application is still reachable via the other worker-nodes)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Masternode components
 
@@ -66,7 +66,7 @@ API call flow describes the flow of communication between the above mentioned co
 7. Kube-apiserver sends request to etcd database to persist informations about the deployment creation
 8. Now the kube-apiserver asks the scheduler which of the available worker node should run the new pod
 9. Scheduler answers on which worke node the new pod should run
-10. Kube-apiserver informs the specific worker node to create and run the Pod&#x20;
+10. Kube-apiserver informs the specific worker node to create and run the Pod
 11. At the same time kube-apiserver informs all worker node kube-proxies about the new pod and the new networking configuration
 12. kubelet now is responsible for downloading all resources like configMaps, secrets, mountings etc.
 13. kubelet sends request to the local container engine (most likely docker) to create the pod
@@ -75,6 +75,4 @@ API call flow describes the flow of communication between the above mentioned co
 16. Kube-apiserver persists information
 17. Watch-loops repeat
 
-
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-26 at 21.32.46.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-05-26 at 21.32.46.png" alt=""><figcaption></figcaption></figure>
