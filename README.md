@@ -4,7 +4,7 @@
 
 ### About This Hub
 
-My goal is to provide a clear and structured learning path for mastering the full roadmap and essential skills to become a successfulI
+The goal of this hub is to provide a clear and structured learning path for mastering the full roadmap and essential skills to become a successfulI
 
 * Indie Maker,
 * Software Engineer/Architect or/and
