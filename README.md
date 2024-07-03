@@ -1,6 +1,8 @@
 # README
 
-## Welcome to the DevLifeLore Knowledge Hub 📚
+## Welcome to the DevLifeLore Knowledge Hub
+
+[![](https://img.shields.io/badge/-Website-000000?style=flat-square\&logoColor=white)](https://devlifelore.com) [![](https://img.shields.io/badge/-GitHub-000000?style=flat-square\&logo=github)](https://github.com/devlifelore/knowledge-hub) [![](https://img.shields.io/badge/-Social-%231DA1F2?style=flat-square\&logo=x)](https://x.com/devlifelore) [![](https://img.shields.io/badge/-Mail-000000?style=flat-square\&logo=mail.ru\&logoColor=white)](mailto:manuel@devlifelore.com)
 
 ### About This Hub
 
@@ -14,9 +16,7 @@ The goal of this hub is to provide a clear and structured learning path for mast
 
 The repository follows a detailed roadmap covering all essential skills and knowledge areas:
 
-### Get in Touch
 
-[![](https://img.shields.io/badge/-@devlifelore-%231DA1F2?style=flat-square\&logo=x)](https://x.com/devlifelore) [![](https://img.shields.io/badge/-manuel@devlifelore.com-000000?style=flat-square\&logo=mail.ru\&logoColor=white)](mailto:manuel@devlifelore.com)
 
 ### Note
 
