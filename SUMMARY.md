@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Docker](README.md)
+* [README](README.md)
+* [Docker](docker/README.md)
   * [Architecture](docker/architecture.md)
   * [Commands](docker/commands.md)
   * [Container Orchestration](docker/container-orchestration.md)
@@ -66,7 +67,7 @@
     * [CRD - Custom Resource Defintion](kubernetes/kubernets-api/crd-custom-resource-defintion.md)
   * [Helm](kubernetes/helm.md)
   * [Commands](kubernetes/commands.md)
-* [cloud](cloud/README.md)
+* [Cloud](cloud/README.md)
   * [AWS](cloud/aws/README.md)
     * [AWS CloudFormation](cloud/aws/aws-cloudformation.md)
     * [Route 53](cloud/aws/route-53.md)
