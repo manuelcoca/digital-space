@@ -8,7 +8,9 @@ The goal of this hub is to provide a extensive and structured roadmap of skillse
 
 * Indie Maker,
 * Software Engineer/Architect or/and
-* Full-Stack Developer
+* Full-Stack Developer.
+
+The knowledge-hub represents only my personal skillset and technologies used. You might focus on other technologies but can still use this Roadmap to cover general concepts. &#x20;
 
 ### What to Expect
 
