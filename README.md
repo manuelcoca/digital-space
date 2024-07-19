@@ -10,17 +10,17 @@ The goal of this hub is to provide a extensive and structured roadmap of skillse
 * Software Engineer/Architect or/and
 * Full-Stack Developer.
 
-The knowledge-hub represents only my personal skillset and technologies used. You might focus on other technologies but can still use this Roadmap to cover general concepts. &#x20;
+Following the Roadmap and acquiring the skills will enable you to build highly professional projects. Plus, you can look forward to landing jobs that pay really well.
 
 ### What to Expect
 
-The repository follows a detailed roadmap covering all essential skills and knowledge areas:
+The repository follows a detailed roadmap covering all essential skills and knowledge areas, which I collected and learned during my carreer as professional consultant.&#x20;
 
 
 
 ### Note
 
-The content is for educational purposes. Due to the fast-paced nature of the tech industry, some information may become outdated. I strive to keep the information current. Always cross-reference with the latest sources.
+The content is for educational purposes and only represents my personal skillset and technologies used. You might focus on other technologies but can still use this Roadmap to cover general concepts.  Due to the fast-paced nature of the tech industry, some information may become outdated. I strive to keep the information current. Always cross-reference with the latest sources.
 
 ***
 
