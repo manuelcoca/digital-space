@@ -4,13 +4,13 @@
 
 ### About This Hub
 
-The goal of this hub is to provide a extensive and structured roadmap of skillsets required to become a successfulI
+The goal of this hub is to provide a extensive and structured roadmap of skillsets required to become a successful
 
 * Indie Maker,
 * Software Engineer/Architect or/and
 * Full-Stack Developer.
 
-Following the Roadmap and acquiring the skills will enable you to build highly professional projects. Plus, you can look forward to landing jobs that pay really well.
+Following the Roadmap and acquiring the skills will enable you to build professional projects, but also build your personality as a professional, which in the end, allows you to land jobs that pay really well.
 
 ### What to Expect
 
