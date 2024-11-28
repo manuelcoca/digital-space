@@ -22,6 +22,6 @@ The content is for educational purposes and only represents my personal skillset
 
 ***
 
-### Let's learn, build, and earn together! 🚀
+### Let's learn and build together! 🚀
 
 [![](https://img.shields.io/badge/-Website-000000?style=flat-square\&logoColor=white)](https://devlifelore.com) [![](https://img.shields.io/badge/-GitHub-000000?style=flat-square\&logo=github)](https://github.com/devlifelore/knowledge-hub) [![](https://img.shields.io/badge/-Social-%231DA1F2?style=flat-square\&logo=x)](https://x.com/devlifelore) [![](https://img.shields.io/badge/-Mail-000000?style=flat-square\&logo=mail.ru\&logoColor=white)](mailto:manuel@devlifelore.com)
