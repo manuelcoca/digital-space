@@ -12,6 +12,9 @@ The goal of this hub is to share my extensive personal roadmap and skillsets, wh
 
 Following the Roadmap and acquiring the skills will enable you to build professional projects, but also build your personality as a professional.
 
+The Hub is written in Gitbook. Follow the link below:
+[![](https://img.shields.io/badge/-Link to Knowledge-Hub-000000?style=flat-square\&logoColor=white)](https://knowledge-hub.devlifelore.com/) [![](https://img.shields.io/badge/-GitHub-000000?style=flat-square\&logo=github)]
+
 ### What to Expect
 
 The repository follows a detailed roadmap covering most of my skillsets and knowledge areas, which I collected and learned during my carreer as professional consultant.&#x20;
