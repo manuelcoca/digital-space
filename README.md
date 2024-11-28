@@ -12,7 +12,8 @@ The goal of this hub is to share my extensive personal roadmap and skillsets, wh
 
 Following the Roadmap and acquiring the skills will enable you to build professional projects, but also build your personality as a professional.
 
-The Hub is written in Gitbook. Follow the link below:
+The Hub is written in Gitbook. Follow the link:
+
 [![](https://img.shields.io/badge/-KnowledgeHub-000000?style=flat-square\&logoColor=white)](https://knowledge-hub.devlifelore.com/)
 
 ### What to Expect
