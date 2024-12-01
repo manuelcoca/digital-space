@@ -21,12 +21,12 @@
 
 * [Containerization](devops/containerization/README.md)
   * [Docker](devops/containerization/docker/README.md)
+    * [Introduction](devops/containerization/docker/introduction.md)
     * [Architecture](devops/containerization/docker/architecture.md)
     * [Commands](devops/containerization/docker/commands.md)
     * [Container Orchestration](devops/containerization/docker/container-orchestration.md)
     * [Docker Compose](devops/containerization/docker/docker-compose.md)
     * [Docker Registry](devops/containerization/docker/docker-registry.md)
-    * [Introduction](devops/containerization/docker/introduction.md)
     * [Networking](devops/containerization/docker/networking.md)
     * [Storage](devops/containerization/docker/storage.md)
     * [Volumes](devops/containerization/docker/volumes.md)

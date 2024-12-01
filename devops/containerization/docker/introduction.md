@@ -4,49 +4,48 @@
 
 #### Without Docker
 
-* Is the Application compatible with the version of OS we were planning to use?
-* You have to check compatibility between services, libaries and dependencies on the OS
-* Architecture of application changes over time and you have to upgrade to newer versions or to change the database
-* every time something changed we have to go trough the process of checking compatibility
+* Is the application compatible with the version of OS we planned to use?
+* You have to check compatibility between services, libraries, and dependencies on the OS.
+* The architecture of the application changes over time, necessitating upgrades to newer versions or changes to the database.
+* Every time something changes, you must go through the process of checking compatibility.
 
 #### With Docker
 
-* no more problems with compatibility
-* Docker allows us to modify or change components without affecting the other components
+* No more problems with compatibility.
+* Docker allows us to modify or change components without affecting other components.
 
 ### Linux Kernel
 
-* All linux operating systems are based on the linux kernel
-  * it's the software above the kernel, which makes these OS different (Debian, Ubunutu etc.)
-* Docker container also are based on the linux kernel
-  * That means that you can run on a Linux system with docker any kind of OS which is based on linux kernel
-  * That also means, that a docker container can't be run on a Windows and other OS can't be run on top
-    * Windows runs a Linux container on a linux virtual machine on Windows
-* But the main purpose is not to run OS on Docker
+* All Linux operating systems are based on the Linux kernel.
+* It's the software above the kernel that differentiates these OS (Debian, Ubuntu, etc.).
+* Docker containers are also based on the Linux kernel.
+* This means you can run any kind of OS based on the Linux kernel on a Linux system with Docker.
+* That also means a Docker container cannot be run directly on Windows, and other OS cannot run on top of Docker without additional layers.
+* Windows runs Linux containers on a Linux virtual machine within Windows.
+* However, the main purpose of Docker is not to run OS on Docker.
 
 ### Containers
 
-* Main purpose of Docker is to package and containerize applications, to ship and run them anywhere
-* Containers are isolated environments
-  * They can have their own processes, network interfaces etc.
+* The main purpose of Docker is to package and containerize applications, to ship and run them anywhere.
+* Containers are isolated environments; they can have their own processes, network interfaces, etc.
 
 ### Images
 
-* Images are read-only templates for creating one or more containers
-* Containers are running instances of images that are isolated and have their own environments
+* Images are read-only templates for creating one or more containers.
+* Containers are running instances of images that are isolated and have their own environments.
 * Images are built from a base image using a set of instructions:
-  * FROM - definition of base image
-  * MAINTAINER - Who maintains this image
-  * RUN - A command to execute on top of the base image
-  * ADD - ADD a file or directory to the new image
-  * ENV - Create an environment variable
-  * ENTRYPOINT - Command to run when container is launched from this image
-  * CMD - Default command or parameter passed to entrypoint
+  * FROM - Definition of the base image.
+  * MAINTAINER - Who maintains this image. (Note: This instruction is deprecated in newer Docker versions; use LABEL instead)
+  * RUN - A command to execute on top of the base image.
+  * ADD - Add a file or directory to the new image.
+  * ENV - Create an environment variable.
+  * ENTRYPOINT - Command to run when a container is launched from this image.
+  * CMD - Default command or parameters passed to the entrypoint.
 
 #### Example
 
-`FROM java:8`
-
-`ADD my-service-fat.jar app.jar`
-
-`ENTRYPOINT ["java", "-jar", "/app.jar"]`
+```docker
+FROM java:8
+ADD my-service-fat.jar app.jar
+ENTRYPOINT ["java", "-jar", "/app.jar"]
+```
