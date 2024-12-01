@@ -23,4 +23,6 @@ Below, you'll find the link to the Knowledge Hub along with my personal accounts
 
 ## Roadmap
 
-![](ultimate-roadmap.png)
+[Interactive Roadmap](https://mm.tt/app/map/3362957299?t=W68TCGpFDi)
+
+![](roadmap.png)
