@@ -19,7 +19,7 @@ I'm always open-minded and welcome anyone interested in being part of maintainin
 
 Below, you'll find the link to the Knowledge Hub along with my personal accounts.
 
-[![](https://img.shields.io/badge/-Website-000000?style=flat-square\&logoColor=white)](https://devlifelore.com) [![](https://img.shields.io/badge/-GitHub-000000?style=flat-square\&logo=github)](https://github.com/devlifelore/knowledge-hub) [![](https://img.shields.io/badge/-Social-%231DA1F2?style=flat-square\&logo=x)](https://x.com/devlifelore) [![](https://img.shields.io/badge/-Mail-000000?style=flat-square\&logo=mail.ru\&logoColor=white)](mailto:manuel@devlifelore.com)
+[![](https://img.shields.io/badge/-KnowledgeHub-000000?style=flat-square\&logoColor=white)](https://knowledge-hub.devlifelore.com/) [![](https://img.shields.io/badge/-Website-000000?style=flat-square\&logoColor=white)](https://devlifelore.com) [![](https://img.shields.io/badge/-GitHub-000000?style=flat-square\&logo=github)](https://github.com/devlifelore/knowledge-hub) [![](https://img.shields.io/badge/-Social-%231DA1F2?style=flat-square\&logo=x)](https://x.com/devlifelore) [![](https://img.shields.io/badge/-Mail-000000?style=flat-square\&logo=mail.ru\&logoColor=white)](mailto:manuel@devlifelore.com)
 
 ## Roadmap
 
