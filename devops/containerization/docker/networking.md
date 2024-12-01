@@ -1,33 +1,26 @@
 # Networking
 
-* Networking is provided through pluggable "Network Drivers"
-  * LibNetwork
-* By default Docker offers 3 drivers
-  *   bridge (default) - Used for communication between containers on a single host
+Networking is provided through pluggable "Network Drivers":
 
-      * Private internal network created by docker on the host
-      * Containers get an internal IP-Address
-      * Containers can communicate outward
-      * To access container from outside, the ports of containers must be mapped to ports on the host
-      *
-
-      ```
-      <div align="left">
-      ```
-
-      ```
-      <figure><img src="../.gitbook/assets/docker_network_arch.jpg" alt="" width="300"><figcaption></figcaption></figure>
-
-      </div>
-      ```
-  * host - Containers will be directly connected to all interfaces available on the host
-    * No IP-Address
-    * No port mapping
-    * Containers are accessible over ports
-    * Port number can only be used once
-  * overlay - Network layer that spans multiple hosts and is only relevant for Swarm-Mode
-  * none - Containers are not attached to any network
-    * No connection to external network or other containers
+* LibNetwork
+* By default, Docker offers three drivers:
+  * bridge (default):
+    * Used for communication between containers on a single host.
+    * Creates a private internal network on the host.
+    * Containers are assigned an internal IP address.
+    * Containers can communicate outward.
+    * To access a container from outside, the ports of the containers must be mapped to ports on the host.
+* host:
+  * Containers are directly connected to all interfaces available on the host.
+  * No separate IP address for the container.
+  * No port mapping is required.
+  * Containers are accessible over the host's ports.
+  * A port number can only be used once.
+* overlay:
+  * A network layer that spans multiple hosts and is only relevant for Swarm Mode.
+* none:
+  * Containers are not attached to any network.
+  * No connection to external networks or other containers.
 
 <figure><img src="../../../.gitbook/assets/default_docker_networks.PNG" alt=""><figcaption></figcaption></figure>
 

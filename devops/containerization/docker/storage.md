@@ -4,11 +4,7 @@
 
 All docker data is stored in this path
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/docker_filesystem.png" alt="" width="175"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/docker_filesystem.png" alt="" width="175"><figcaption></figcaption></figure></div>
 
 ### Image Layers
 
@@ -17,20 +13,21 @@ All docker data is stored in this path
 
 #### Following dockerfile would result in following storage layers:
 
-`FROM Ubuntu RUN apt-get update && apt-get -y install python RUN pip install flask COPY . /opt/source-code ENTRYPOINT FLASK_APP=/opt/source-code/app.py flask run`
+```docker
+FROM Ubuntu RUN apt-get update && apt-get -y install python RUN pip install flask 
+COPY . /opt/source-code 
+ENTRYPOINT FLASK_APP=/opt/source-code/app.py flask run
+```
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/storage_layers.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/storage_layers.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ### Container Layer
 
-When a container is created from an image, docker creates a writeable container layer (see above). All changes made to the running container are written to this writeable container layer:
+When a container is created from an image, Docker creates a writable container layer (see above). All changes made to the running container are written to this writable container layer:
 
 * Writing new files
 * Modifying existing files
 * Deleting files
 
-All data written to the writeable layer will be deleted when correspending container is deleted.
+\
+All data written to the writable layer will be deleted when the corresponding container is deleted.
