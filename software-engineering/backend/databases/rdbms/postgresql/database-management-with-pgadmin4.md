@@ -21,4 +21,4 @@ docker run --name test-pgadmin -p 15432:80 -e "PGADMIN_DEFAULT_EMAIL=my_email@te
 * **“PGADMIN\_DEFAULT\_EMAIL”** will be the login to access pgAdmin.
 * **“PGADMIN\_DEFAULT\_PASSWORD”** will be the password to access pgAdmin.
 
-pgAdmin UI can be accessed at[ https://localhost:15432](https://localhost:15432/).
+pgAdmin UI can be accessed at[ http://localhost:15432](https://localhost:15432/).
