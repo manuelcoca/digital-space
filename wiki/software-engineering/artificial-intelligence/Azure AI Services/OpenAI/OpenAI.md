@@ -1,0 +1,3 @@
+---
+tags: azure, azureai, azureopenai
+---

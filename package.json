@@ -1,0 +1,14 @@
+{
+  "name": "obsidian-public",
+  "version": "1.0.0",
+  "description": "Obsidian public knowledge base",
+  "scripts": {
+    "format": "prettier --write \"**/*.md\"",
+    "format:check": "prettier --check \"**/*.md\"",
+    "format:watch": "onchange \"**/*.md\" -- prettier --write {{changed}}"
+  },
+  "devDependencies": {
+    "onchange": "^7.1.0",
+    "prettier": "^2.8.8"
+  }
+}

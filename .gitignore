@@ -1,0 +1,9 @@
+node_modules
+.obsidian
+.obsidian/plugins
+.obsidian/plugins/obsidian-public
+.obsidian/plugins/obsidian-public/node_modules
+.obsidian/plugins/obsidian-public/dist
+.space
+_templates
+_assets

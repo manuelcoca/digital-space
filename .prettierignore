@@ -1,0 +1,15 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+build
+
+# Obsidian internal files
+.obsidian
+.space
+
+# Other common files to ignore
+.git
+.DS_Store
+**/._*
