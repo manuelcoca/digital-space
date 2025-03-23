@@ -42,7 +42,7 @@ There are five oil paintings in five separate rooms. All oil paintings are lit o
 o1: NOK  
 r1-32b: OK
 
-Solve: 11+(10/2)*5  
+Solve: 11+(10/2)\*5  
 3.5: OK  
 4o: OK  
 o1: OK  
