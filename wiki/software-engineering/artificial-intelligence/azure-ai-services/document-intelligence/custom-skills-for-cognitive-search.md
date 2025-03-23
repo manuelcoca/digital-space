@@ -1,7 +1,3 @@
----
-tags: azure, azureai, azureaidocumentintelligence
----
-
 You can add a custom skill that calls Azure AI Document Intelligence to enrich the Cognitive Search index.
 
 Example Use-Case:

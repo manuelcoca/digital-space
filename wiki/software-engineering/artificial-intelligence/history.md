@@ -1,7 +1,3 @@
----
-tags: ai
----
-
 The formal foundation of the field of AI research was laid in 1956 during a workshop at Dartmouth College. Key milestones include:
 
 -   1950s - 1970s: Early excitement, marked by the development of basic algorithms and the demonstration of the potential of AI.

@@ -1,7 +1,3 @@
----
-tags: azure, azureai, azureaibotservice
----
-
 Bot solutions on Microsoft Azure are supported by the following technologies:
 
 -   **Azure AI Bot Service**. A cloud service that enables bot delivery through one or more channels, and integration with other services.

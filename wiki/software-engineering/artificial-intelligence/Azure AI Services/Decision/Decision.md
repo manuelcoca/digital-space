@@ -1,3 +1,0 @@
----
-tags: azure, azureai, azureaidecision
----

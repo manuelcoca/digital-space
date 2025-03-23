@@ -1,7 +1,3 @@
----
-tags: azure, azureai, azureaibotservice
----
-
 The composer is an open-source visual designer for developers building bots. It uses the latest SDK features so you can build complex bots with relative ease.
 
 # Power Virtual Agents vs. Bot Framework Composer

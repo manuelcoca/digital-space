@@ -1,7 +1,3 @@
----
-tags: azure, azureai, azureaibotservice
----
-
 # Factors influencing a bot's success
 
 Ultimately, factors that lead to a successful bot all revolve around creating a great user experience:

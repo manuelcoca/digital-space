@@ -1,7 +1,3 @@
----
-tags: azure, azureai, azureaipersonalizer
----
-
 # Introduction
 
 Azure AI Personalizer helps to improve decision-making for your app in near real-time. It uses _reinforcement learning_ which is a process that enables AI Personalizer to choose the best _action_ for a given _context_, aiming to maximize a _reward_:

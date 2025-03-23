@@ -1,7 +1,3 @@
----
-tags: azure, azureai, azureaidocumentintelligence
----
-
 # Introduction
 
 Azure Document Intelligence is built on top of Azure AI Vision and uses Optical Character Recognition (OCR) feature, to submit photographed or scanned documents and extract their words, text and other content in JSON format.

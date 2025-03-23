@@ -1,7 +1,3 @@
----
-tags: ai
----
-
 -   Software engineers must consider the impact of their software on users and society, especially regarding ethical concerns.
 -   AI systems, often based on probabilistic models, influence decisions and require careful consideration.
 -   AI's human-like nature builds user trust but also poses risks of incorrect predictions and misuse.

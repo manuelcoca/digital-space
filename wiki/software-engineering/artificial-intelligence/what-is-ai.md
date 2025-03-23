@@ -1,7 +1,3 @@
----
-tags: ai
----
-
 Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. AI characteristics and human-like capabilities:
 
 1. **Visual perception** - Interpret, and process input from images, video streams, and live cameras.

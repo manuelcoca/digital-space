@@ -1,7 +1,3 @@
----
-tags: ai
----
-
 # AI Algorithm
 
 Majority of AI algorithm are Neural Networks, but not all. AI includes a variety of techniques and methodologies that extend beyond neural networks. Some notable examples include:
