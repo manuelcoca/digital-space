@@ -19,7 +19,7 @@
 | thu        | back, trizeps, frontlever (1) | gym      |
 | fr         | -                             | -        |
 | sat        | (kettlebell, handstand)       | home     |
-| sun        | back, trizeps, plench         | home     |
+| sun        | back, trizeps, plench (2)     | home     |
 
 ###### Exercises
 
