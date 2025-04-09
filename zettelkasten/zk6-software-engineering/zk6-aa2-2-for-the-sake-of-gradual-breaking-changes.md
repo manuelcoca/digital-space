@@ -7,8 +7,13 @@
 
 ###### Content
 
-Micro packages: +Faster time to market +Enables gradual breaking changes -Efficiency and maintainability decrease over time -Introduces cross-dependencies
+Micro packages:
++Faster time to market +Enables gradual breaking changes
+-Efficiency and maintainability decrease over time
+-Introduces cross-dependencies
 
-Mono packages: +Simple version management -Breaking changes becomes more challenging over time
+Mono packages:
++Simple version management
+-Breaking changes becomes more challenging over time
 
 ==Micro-packages for the sake of gradual breaking changes - other benefits are secondary.

@@ -7,9 +7,17 @@
 
 ###### Content
 
-Monorepo: +Starts efficient +Initially good maintainability -Both efficiency and maintainability decrease over time -Becomes less flexible for implementing breaking changes
+Monorepo:
++Starts efficient
++Initially good maintainability
+-Both efficiency and maintainability decrease over time
+-Becomes less flexible for implementing breaking changes
 
-Microrepo: +Clear project boundaries -Lower initial efficiency -Adds complexity from the beginning -Maintainability becomes more challenging over time
+Microrepo:
++Clear project boundaries
+-Lower initial efficiency
+-Adds complexity from the beginning
+-Maintainability becomes more challenging over time
 
 ==Only good reason for a new repo is a have clear project boundary==
 
