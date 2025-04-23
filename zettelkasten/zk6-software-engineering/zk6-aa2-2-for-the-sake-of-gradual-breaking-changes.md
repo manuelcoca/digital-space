@@ -8,7 +8,8 @@
 ###### Content
 
 Micro packages:
-+Faster time to market +Enables gradual breaking changes
++Faster time to market
++Enables gradual breaking changes
 -Efficiency and maintainability decrease over time
 -Introduces cross-dependencies
 
