@@ -1,5 +1,3 @@
-# Helm
-
 Kubernetes doesn't care about the application, instead it only know about the single objects and resources.
 
 Helm is kind of an abstraction and works like a package manager that helps us manage our applications in the Kubernetes cluster without thinking too much about Objects. It helps to install, uninstall, upgrade or rollback whole applications:

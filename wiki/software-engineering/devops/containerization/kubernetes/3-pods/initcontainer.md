@@ -1,4 +1,4 @@
-_initContainers_ can be used to ensure some containers are ready before others in a pod.
+initContainers can be used to ensure some containers are ready before others in a pod.
 
 -   Pods can have one or more initContainers
 -   initContainers are exactly like regular containers, except:

@@ -1,5 +1,3 @@
-# Ingress
-
 Ingress helps users access the application using a single URL that can be configured to route traffic to different services within your cluster, based on the URL path. Example:
 
 -   https://example.com/path1 -> route to serivce-1
@@ -55,9 +53,7 @@ A few things are necessary to deploy an nginx Ingress Controller:
 
 #### 1. Ingress Controller YAML
 
-{% code title="ingress-controller.yaml" %}
-
-```
+```yaml
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
@@ -95,8 +91,6 @@ spec:
          - name: https
            containerPort: 443
 ```
-
-{% endcode %}
 
 #### 2. ConfigMap YAML
 
