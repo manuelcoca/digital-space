@@ -8,10 +8,8 @@ maintain a healthy skin.
 
 ### Nutrition
 
--   Low GI (Glycemic Index ) fruits
-    -   Are digested and absorbed more slowly.
--   No refined carbohydrates and harmful fats
-    -   No bread, pasta, added sugar, fast food etc.
+-   No refined carbohydrates
+    -   No bread, pasta, added sugar
 -   No seed oils with high omega-6/3 ratios
     -   Bad for metabolic health. Often added to packaged food.
 -   Healthy fat intake
@@ -42,6 +40,7 @@ maintain a healthy skin.
 -   kiwi
 -   watermelon
 -   apples
+-   bananas
 -   pomegranate
 -   papaya
 -   honey
@@ -54,8 +53,6 @@ maintain a healthy skin.
 -   all kind of food with too much added sugar
 -   bread and pasta that are not wholegrain
 -   smoothies, calorie and soft drinks
--   raisins
--   dates
 
 ### lifestyle and habits
 
