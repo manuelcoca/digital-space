@@ -1,7 +1,7 @@
 **`id`**: zk6-aa10-0
 **`title`**: tests
 **`date`**: 2025-05-21
-**`tags`**: #softwareengineering #tests
+**`tags`**: #software-engineering #tests
 
 ---
 

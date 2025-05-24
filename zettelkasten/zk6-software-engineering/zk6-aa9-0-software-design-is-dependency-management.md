@@ -1,7 +1,7 @@
 **`id`**: zk6-aa9-0
 **`title`**: software-design-is-dependency-management
 **`date`**: 2025-05-23
-**`tags`**: #softwareengineering #softwarearchitecture #softwaredesign
+**`tags`**: #software-engineering #software-architecture #software-design
 
 ---
 

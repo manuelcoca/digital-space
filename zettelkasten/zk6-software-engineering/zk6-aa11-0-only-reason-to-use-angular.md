@@ -1,7 +1,7 @@
 **`id`**: zk6-aa11-0
 **`title`**: tests
 **`date`**: 2025-05-21
-**`tags`**: #softwareengineering #frontend-architecture #frontend-tooling #angular
+**`tags`**: #software-engineering #frontend-architecture #frontend-tooling #angular
 
 ---
 

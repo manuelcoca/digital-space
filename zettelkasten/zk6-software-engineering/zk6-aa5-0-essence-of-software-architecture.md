@@ -1,7 +1,7 @@
 **`id`**: zk6-aa5-0
 **`title`**: essence-of-software-architecture
 **`date`**: 2025-05-19
-**`tags`**: #softwareengineering #softwarearchitecture
+**`tags`**: #software-engineering #software-architecture
 
 ---
 

@@ -1,7 +1,7 @@
 **`id`**: zk6-aa5-1
 **`title`**: code-engagements-of-architects
 **`date`**: 2025-05-23
-**`tags`**: #softwareengineering #softwarearchitecture
+**`tags`**: #software-engineering #software-architecture
 
 ---
 

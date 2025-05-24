@@ -1,7 +1,7 @@
 **`id`**: zk6-aa8-1
 **`title`**: shared-state-management
 **`date`**: 2025-05-21
-**`tags`**: #softwareengineering #softwarearchitecture #softwaredesign #programminglanguages
+**`tags`**: #software-engineering #software-architecture #software-design #programming-languages
 
 ---
 

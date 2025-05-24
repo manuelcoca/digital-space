@@ -1,7 +1,7 @@
 **`id`**: zk6-aa9-1
 **`title`**: bad-code
 **`date`**: 2025-05-21
-**`tags`**: #softwareengineering #softwarearchitecture #softwaredesign
+**`tags`**: #software-engineering #software-architecture #software-design
 
 ---
 

@@ -1,7 +1,7 @@
 **`id`**: zk6-aa6-0
 **`title`**: programming-language-paradigms
 **`date`**: 2025-05-21
-**`tags`**: #softwareengineering #softwaredesign #softwarearchitecture #programminglanguages
+**`tags`**: #software-engineering #software-design #software-architecture #programming-languages
 
 ---
 

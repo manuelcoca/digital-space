@@ -1,7 +1,7 @@
 **`id`**: zk6-aa7-1
 **`title`**: polymorhphism
 **`date`**: 2025-05-21
-**`tags`**: #softwareengineering #softwaredesign #softwarearchitecture #programminglanguages
+**`tags`**: #software-engineering #software-design #software-architecture #programming-languages
 
 ---
 

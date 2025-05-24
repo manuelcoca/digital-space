@@ -1,16 +1,18 @@
 **`id`**: zk6-aa7-0 \*\*
 **`title`**: object-oriented-programming
 **`date`**: 2025-05-22
-**`tags`**: #softwareengineering #softwaredesign #softwarearchitecture #programminglanguages
+**`tags`**: #software-engineering #software-design #software-architecture #programming-languages
 
 ---
 
 ###### Content
 
 -   Abstractions, Encapsulation, Polymorphism and Interfaces possible without OO languages
--   OOP fundamentally unsuitable for any problem
--   OOP fails to deliver promised simplicity, elegance, or maintainability.
--   OO is NOT modelling the real world -> marketing non-sense. In real world we have to deal with very abstract excess structures with no real world paralells.
+-   OOP fundamentally unsuitable for most problems
+-   OOP usually fails to deliver promised simplicity, elegance, or maintainability.
+-   OO is NOT modelling the real world -> marketing non-sense.
+-   OO is application modelling - often very abstract excess structures with no real world parallels.
+-   The advantage of OOP is decoupling = The sending object doesn't know or care how the receiver will respond and which implementation of an interface receives his message.
 
 ###### Reference
 
