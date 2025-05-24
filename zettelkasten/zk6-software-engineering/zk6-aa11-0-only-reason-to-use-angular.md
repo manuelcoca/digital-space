@@ -9,4 +9,4 @@
 
 -   Angular is most used in enterprise solutions because it's considered stable due to it's built-in features.
 -   React requires third-party toolings.
--   Angular's downside is its heavy reliance on OOP patterns, introducing unecessary complexity.
+-   Angular's downside is its heavy reliance on OOP patterns like DI/Inheritance, introducing unecessary complexity.
