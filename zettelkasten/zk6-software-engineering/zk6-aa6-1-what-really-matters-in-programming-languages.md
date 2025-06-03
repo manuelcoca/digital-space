@@ -7,7 +7,7 @@
 
 ###### Content
 
--   Classifying languages as functional or not can be fuzzy
+-   Classifying languages in paradigms can be fuzzy
 -   It's more about the programming languages aesthetics:
     -   elegance
     -   simplicity
@@ -18,3 +18,7 @@
 -   With aesthetics comes the ability to build a good design that avoids changes and side-effects and still have a good experience.
 
 ==Software design is about managing dependencies to make code easier to understand and change.==
+
+###### Reference
+
+-   [[zk6-aa9-4-apply-good-software-design]]

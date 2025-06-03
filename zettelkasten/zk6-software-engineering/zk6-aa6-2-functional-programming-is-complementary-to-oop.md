@@ -10,3 +10,7 @@
 -   Object-oriented functional programming is desirable - OOP and FP are complementary.
     -   Immutable objects = Object-oriented functional programming
 -   A good programmer is a functional object-oriented procedural programmer.
+
+###### References
+
+-   [[zk6-aa9-4-apply-good-software-design]]

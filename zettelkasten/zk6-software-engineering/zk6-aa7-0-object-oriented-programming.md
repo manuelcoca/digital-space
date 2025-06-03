@@ -1,22 +1,12 @@
-**`id`**: zk6-aa7-0 \*\*
-**`title`**: object-oriented-programming
-**`date`**: 2025-05-22
+**`id`**: zk6-aa7-0
+**`title`**: oop-in-few-words
+**`date`**: 2025-05-24
 **`tags`**: #software-engineering #software-design #software-architecture #programming-languages
 
 ---
 
 ###### Content
 
--   Abstractions, Encapsulation, Polymorphism and Interfaces possible without OO languages
--   OOP fundamentally unsuitable for most problems
--   OOP usually fails to deliver promised simplicity, elegance, or maintainability.
--   OO is NOT modelling the real world -> marketing non-sense.
--   OO is application modelling - often very abstract excess structures with no real world parallels.
--   The advantage of OOP is decoupling = The sending object doesn't know or care how the receiver will respond and which implementation of an interface receives his message.
+OOP is a set of collaborating objects. The collaborate by sending messages to each other (function calls). The sender doesn't know and care how the receiver will respond. One interface can have many implementations of objects. The sender doesn't care which implementation is receiving his message = decoupling.
 
-###### Reference
-
-[[zk6-aa7-1-polymorhphism]]
-[[zk6-aa7-2-encapsulation]]
-[[zk6-aa7-3-abstractions]]
-[[zk6-aa7-4-inheritance]]
+**Four pillars:** polymorphism, encapsulation, abstraction & inheritance.

@@ -1,0 +1,1 @@
+**Embedding** is a technique used to represent text chunks as numerical vectors in a high-dimensional space. These vectors capture the semantic meaning of the text, allowing the retrieval system to compare and rank different chunks based on their relevance to the input query.

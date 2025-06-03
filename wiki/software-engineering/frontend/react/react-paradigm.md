@@ -1,0 +1,4 @@
+-   React follows the object-oriented-functional programming paradigm
+-   Components encapsulate state and behavior (like objects)
+-   React favors composition over inheritance (aligned with modern OOP best practices)
+-   Emphasizes functional programming with immutable state, pure functions, and declarative rendering

@@ -9,9 +9,12 @@
 
 -   Procedure = **action-centered design** =
     -   No relationship between data types and functions/behaviour
+    -   Let Data be data and functions be functions
 -   Object-oriented = **data-centered design**
     -   State is seperated in units
+    -   Think about data and functions/behaviour that belong together
 -   Imperative = **do modify state**
     -   Mutate state whereever needed, no shared state handling
 -   Functional = **don't modify state**
     -   Pure functions with no state, minimising state as much as possible
+    -   Think about data as immutable
