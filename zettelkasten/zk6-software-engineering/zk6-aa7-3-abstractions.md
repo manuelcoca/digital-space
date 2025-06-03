@@ -7,7 +7,7 @@
 
 ###### Content
 
--   Abstraction = simplifies complexity
+-   Abstraction = simplifies complexity by exposing only the essential features or interfaces, making it easier to understand, use, and maintain code.
 -   Abstraction in OOP is often non-intuitive
 -   Not abstraction itself is the problem, but bad abstraction is.
 -   Don't implement abstractions unless the need is there. The need is there when a change affects other parts of the code.

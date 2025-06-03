@@ -7,5 +7,6 @@
 
 ###### Content
 
--   Inheritance = hierarchical reuse, largely irrelevant today, overused.
+-   **Inheritance (is-a relationship)** = hierarchical reuse (parent-child), largely irrelevant today
+-   **Composition (has-a relationship)** = one object contains others
 -   All major languages and known engineers suggest composition over inheritence.

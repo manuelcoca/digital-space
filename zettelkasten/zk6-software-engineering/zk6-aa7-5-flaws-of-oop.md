@@ -21,4 +21,4 @@
 [[zk6-aa7-1-polymorhphism]]
 [[zk6-aa7-2-encapsulation]]
 [[zk6-aa7-3-abstractions]]
-[[zk6-aa7-4-inheritance]]
+[[zk6-aa7-4-inheritance-composition]]

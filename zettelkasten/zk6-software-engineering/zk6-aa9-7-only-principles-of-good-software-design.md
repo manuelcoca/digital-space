@@ -1,7 +1,7 @@
-**`id`**: zk6-aa9-only
-**`title`**: principle-of-good-software-design
+**`id`**: zk6-aa9-7
+**`title`**: only-principle-of-good-software-design
 **`date`**: 2025-06-03
-**`tags`**:
+**`tags`**: #software-engineering #software-architecture #software-design
 
 ---
 
