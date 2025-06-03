@@ -8,5 +8,4 @@
 ###### Content
 
 -   Inheritance = hierarchical reuse, largely irrelevant today, overused.
--   Weakness of C# and Java = inheritance required to have polymorphism
--   Dynamic typed langauges = no inheritance required to have polymorphism. Inheritance or composition is used to inherit variables or behaviour, not interfaces.
+-   All major languages and known engineers suggest composition over inheritence.

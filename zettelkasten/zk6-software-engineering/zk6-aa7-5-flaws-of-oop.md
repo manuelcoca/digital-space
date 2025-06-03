@@ -7,12 +7,14 @@
 
 ###### Content
 
--   Abstractions, Encapsulation, Polymorphism and Interfaces possible without OO languages
--   OOP fundamentally unsuitable for most problems
+-   Encapsulation fails at fine-grained level because
+    -   creates shared state issues
+    -   increasing complexity and misleading code structures
 -   OOP usually fails to deliver promised simplicity, elegance, or maintainability.
 -   OO is NOT modelling the real world -> marketing non-sense.
 -   OO is application modelling - often very abstract excess structures with no real world parallels.
--   The advantage of OOP is decoupling = The sending object doesn't know or care how the receiver will respond and which implementation of an interface receives his message.
+-   Many abstractions lead to bad abstractions and more complexity
+-   Abstractions, Encapsulation, Polymorphism and Interfaces possible without OO languages
 
 ###### Reference
 

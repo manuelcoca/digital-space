@@ -7,14 +7,12 @@
 
 ###### Content
 
--   Encapsulation = bundles state and methods, hides details.
--   OOP weakenes encapsulation = as soon as objects are shared there is no encapsulation anymore
-    -   Encapsulation is achieved by strict hierarchy of objects with a root object coordinating state
+-   Encapsulation = bundles state and methods that should not be modified by other parts
+-   Promises = reduced coupling, enhanced maintainability, and simplified interactions with the object.
+-   Is achieved by strict hierarchy of objects with a root object coordinating state
     -   Correct OOP = giant abstraction hierarchy = no simplicity and maintainability
     -   Wrong OOP = too many shared objects = no encapsulation anymore
--   Encapsulation in OOP
-    -   = functionality across classes/methods
-    -   = fails at fine-grained level
-    -   = creates shared state issues
-    -   = increasing complexity and misleading code structures.
+    -   = makes only sense until a certain level of granity
+-   Doesn't provide a fundamental solution to the shared state issue = as soon as objects are shared there is no encapsulation anymore
+    -   Shared objects = 5 objects communicate and indirectly modify one object's state, is no difference than a global variable and 5 functions interacting with the state
 -   SOLID principles, dependency injection, test-driven-development etc., compensate for encapsulation’s failures.

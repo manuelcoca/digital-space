@@ -14,6 +14,4 @@
 -   Polymorphism = inverting the dependency / flow of control by defining an interface between two modules = loose coupling
 -   Polymorphism = gives you control of the dependency structure
 -   Good dependency management = more reusable, less fragile code.
--   Polymorphism is not excusively OOP and can also be achieved in non-oop, e.g:
-    -   Go = uses interfaces, not inheritance required - if a method implements the interface it just works without explicitly telling a method implements the interface.
-    -   Python = uses duck typing - if an object has the right method, it just works
+-   Polymorphism is not excusively OOP and can also be achieved in any language with interfaces or types

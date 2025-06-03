@@ -9,13 +9,12 @@
 
 -   Classifying languages in paradigms can be fuzzy
 -   It's more about the programming languages aesthetics:
-    -   elegance
     -   simplicity
     -   flexibility
     -   readability
     -   maintainability
     -   structure
--   With aesthetics comes the ability to build a good design that avoids changes and side-effects and still have a good experience.
+-   With aesthetics comes the ability to build a good design that avoids changes and side-effects.
 
 ==Software design is about managing dependencies to make code easier to understand and change.==
 
