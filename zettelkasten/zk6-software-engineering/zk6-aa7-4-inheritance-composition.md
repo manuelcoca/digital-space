@@ -9,4 +9,4 @@
 
 -   **Inheritance (is-a relationship)** = hierarchical reuse (parent-child), largely irrelevant today
 -   **Composition (has-a relationship)** = one object contains others
--   All major languages and known engineers suggest composition over inheritence.
+-   All major languages and known engineers suggest composition over inheritance

@@ -1,5 +1,5 @@
-**`id`**: zk6-aa11-0
-**`title`**: tests
+**`id`**: zk6-ab2-0
+**`title`**: only-reason-to-use-angular
 **`date`**: 2025-05-21
 **`tags`**: #software-engineering #frontend-architecture #frontend-tooling #angular
 

@@ -1,4 +1,4 @@
-ee**`id`**: zk6-aa12-0
+ee**`id`**: zk6-ab3-0
 **`title`**: dont-use-micro-services-for-decoupling
 **`date`**: 2025-05-24
 **`tags`**: #software-architecture #micro-services
